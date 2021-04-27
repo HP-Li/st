@@ -6,6 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Monospace:pixelsize=30:antialias=true:autohint=true:matrix=1 .1 0 1";
+/*static char *font = "Monospace:slant=Italic:pixelsize=30:antialias=true:autohint=true";*/
 /*:Courier:Italic";*/
 static int borderpx = 2;
 
